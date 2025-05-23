@@ -87,4 +87,8 @@ function updateUI({
   document.getElementById("humidity").textContent = `${humidity}%`;
   document.getElementById("wind").textContent = `${wind_speed} m/s`;
   document.getElementById("pressure").textContent = `${pressure} hPa`;
+<<<<<<< HEAD
 }  
+=======
+}
+>>>>>>> 6572a73a97861d665b5f4d11927e9e2cf190cf8b
